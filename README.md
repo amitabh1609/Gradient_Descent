@@ -4,7 +4,7 @@
 
 This notebook is a complete walkthrough of how Gradient Descent works — from the basics to intuitive visualizations.
 
-It started as a learning project and turned into something I’m proud to showcase for TA/RA opportunities. I’ve implemented the algorithm in multiple ways to understand not just how it works, but **why** it works the way it does.
+It started as a simple exploration of gradient descent, but quickly grew into a deep dive into how the algorithm really behaves. I implemented it in multiple forms — from basic loops to 3D visualizations — to not just make it work, but to truly understand the why behind every step.
 
 ---
 
@@ -24,6 +24,18 @@ It started as a learning project and turned into something I’m proud to showca
 - You’ll see the optimization path in real time
 
 ---
+
+## 📊 Sample Outputs
+
+### 🌀 Gradient Descent Path on Contour Plot
+![Contour Path](assets/contour_path.png)
+
+### 📈 Gradient Line Updates during Descent
+![Gradient Lines](assets/gradient_lines.png)
+
+### 📏 OLS vs Baseline Comparison
+![OLS Comparison](assets/ols_vs_baseline.png)
+
 
 ## 🔗 Want to Try It?
 
